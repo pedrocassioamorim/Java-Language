@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mysql-connector-j_8.3.0-1ubuntu23">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/java-libs/java-connections/mysql-connector-j_8.3.0-1ubuntu23.10_all" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
