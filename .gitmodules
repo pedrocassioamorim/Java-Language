@@ -1,0 +1,3 @@
+[submodule "JogoDeXadrez"]
+	path = JogoDeXadrez
+	url = git@github.com:pedrocassioamorim/Java-RawLanguage-ChessGame.git
