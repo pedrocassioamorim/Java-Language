@@ -1,0 +1,11 @@
+Pedro Amorim,100000.00
+Wellen Karina,20000.00
+Camila Maia,18000.00
+Layse Carvalho,30000.00
+Bruna Leticia,5000.00
+Sara Trindade,10000.00
+Lenne Felix,15000.00
+Jaine Borba,10000.00
+Izaura Franz,20000.00
+Melody Podair,25000.00
+Lea Catelin,25000.00
