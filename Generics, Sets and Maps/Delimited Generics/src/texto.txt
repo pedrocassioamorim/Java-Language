@@ -1,0 +1,3 @@
+Computer,2000
+Iphone,1500
+Tablet,550
