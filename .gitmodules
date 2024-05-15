@@ -1,6 +1,0 @@
-[submodule "JogoDeXadrez"]
-	path = JogoDeXadrez
-	url = git@github.com:pedrocassioamorim/Java-RawLanguage-ChessGame.git
-[submodule "JDBC"]
-	path = JDBC
-	url = git@github.com:pedrocassioamorim/Java-RawLanguage-JDBC.git
